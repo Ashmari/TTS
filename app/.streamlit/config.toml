@@ -2,4 +2,8 @@
 port = 8090
 
 [theme]
-base = "dark"
+primaryColor = "#FF6005"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#dbdbd0"
+textColor = "#04022c"
+font = "sans serif"

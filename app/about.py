@@ -19,24 +19,23 @@ Ashan Cassim,
 Ashmari Promodya,
 Buddhi Gamage,
 Bimsara Gamage,
-Mrs. Kumudu Gamage,
+Asoka Bandula,
+Kumudu Gamage,
 Chamila Liyanage,
-Dr. Randil Pushpananda,
-Dr. Asanka Wasala,
-Dr. Dulip Herath,
-Mr. Viraj Welgama, and
-Dr. Ruvan Weerasinghe 
+Randil Pushpananda,
+Asanka Wasala,
+Dulip Herath,
+Viraj Welgama, and
+Ruvan Weerasinghe 
 
     """)
     
     st.write("### Funded by")
     st.write(
     """   
-- National Research Council (NRC-Sri Lanka)
-- Sri Lanka Institute of Information and Communication Technology (ICTA - Sri Lanka)
+- Information and Communication Technology Agency of Sri Lanka (ICTA)
+- World Intellectual Property Organization (WIPO)
 - University of Colombo School of Computing (UCSC)
-- LK Domain Registry
-
     """
     )
     st.write("### Disclaimer")
